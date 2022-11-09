@@ -29,12 +29,23 @@
 .main .icon {
   width: 34px;
 }
+.main .dalle {
+  margin: 3%;
+  width: 30%;
+}
 .main h3 {
   font-size: 32px;
   line-height: 40px;
   font-weight: bold;
   color: #202123;
   margin: 16px 0 40px;
+}
+.main p {
+  font-size: 20px;
+  line-height: 30px;
+  color: #202123;
+  margin-left: 35%;
+  margin-right: 35%;
 }
 .main form {
   display: flex;
